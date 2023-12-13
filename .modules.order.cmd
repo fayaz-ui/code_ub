@@ -1,1 +1,1 @@
-cmd_/root/work/modules.order := {   echo /root/work/major_minor.o; :; } > /root/work/modules.order
+cmd_/root/work/modules.order := {   echo /root/work/driver.o; :; } > /root/work/modules.order
